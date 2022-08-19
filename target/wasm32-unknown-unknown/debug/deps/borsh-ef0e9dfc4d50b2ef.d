@@ -1,0 +1,12 @@
+D:\Documents\blockchain\core-contracts\voting\target\wasm32-unknown-unknown\debug\deps\borsh-ef0e9dfc4d50b2ef.rmeta: C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-0.7.1\src/lib.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-0.7.1\src\de\mod.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-0.7.1\src\de\hint.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-0.7.1\src\schema.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-0.7.1\src\schema_helpers.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-0.7.1\src\ser\mod.rs
+
+D:\Documents\blockchain\core-contracts\voting\target\wasm32-unknown-unknown\debug\deps\libborsh-ef0e9dfc4d50b2ef.rlib: C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-0.7.1\src/lib.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-0.7.1\src\de\mod.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-0.7.1\src\de\hint.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-0.7.1\src\schema.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-0.7.1\src\schema_helpers.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-0.7.1\src\ser\mod.rs
+
+D:\Documents\blockchain\core-contracts\voting\target\wasm32-unknown-unknown\debug\deps\borsh-ef0e9dfc4d50b2ef.d: C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-0.7.1\src/lib.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-0.7.1\src\de\mod.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-0.7.1\src\de\hint.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-0.7.1\src\schema.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-0.7.1\src\schema_helpers.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-0.7.1\src\ser\mod.rs
+
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-0.7.1\src/lib.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-0.7.1\src\de\mod.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-0.7.1\src\de\hint.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-0.7.1\src\schema.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-0.7.1\src\schema_helpers.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-0.7.1\src\ser\mod.rs:
