@@ -1,0 +1,12 @@
+D:\Documents\blockchain\core-contracts\voting\target\wasm32-unknown-unknown\release\deps\sha2-5630373483f8d99b.rmeta: C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\lib.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\consts.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\sha256.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\sha256_utils.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\sha512.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\sha512_utils.rs
+
+D:\Documents\blockchain\core-contracts\voting\target\wasm32-unknown-unknown\release\deps\libsha2-5630373483f8d99b.rlib: C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\lib.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\consts.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\sha256.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\sha256_utils.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\sha512.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\sha512_utils.rs
+
+D:\Documents\blockchain\core-contracts\voting\target\wasm32-unknown-unknown\release\deps\sha2-5630373483f8d99b.d: C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\lib.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\consts.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\sha256.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\sha256_utils.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\sha512.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\sha512_utils.rs
+
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\lib.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\consts.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\sha256.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\sha256_utils.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\sha512.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\sha512_utils.rs:

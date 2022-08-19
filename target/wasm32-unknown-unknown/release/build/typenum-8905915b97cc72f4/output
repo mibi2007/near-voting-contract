@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=D:\Documents\blockchain\core-contracts\voting\target\wasm32-unknown-unknown\release\build\typenum-8905915b97cc72f4\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=D:\Documents\blockchain\core-contracts\voting\target\wasm32-unknown-unknown\release\build\typenum-8905915b97cc72f4\out\op.rs
